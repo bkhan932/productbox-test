@@ -1,4 +1,3 @@
-```markdown
 # Website Title Fetcher
 
 This project is a Node.js server that fetches the titles of websites provided as query parameters in the URL. It includes implementations for fetching website titles using plain Node.js callbacks, a flow library (async.js), and Promises.
