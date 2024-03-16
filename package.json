@@ -1,0 +1,13 @@
+{
+  "name": "website-title-fetcher",
+  "version": "1.0.0",
+  "description": "A Node.js server to fetch titles of websites",
+  "main": "USING-PLAIN-NODE-CALLBACKS.js",
+  "scripts": {
+    "start": "node 'filename'"
+  },
+  "dependencies": {
+    "follow-redirects": "^1.15.6",
+    "async": "3.2.5"
+  }
+}
