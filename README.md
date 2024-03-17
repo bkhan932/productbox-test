@@ -38,10 +38,10 @@ The server will be running on port 3000 by default.
 
 ## How to Use
 
-Once the server is running, you can access the endpoint `GET /I/want/title` with the `address` query parameter to fetch the titles of the provided websites.
+Once the server is running, you can access the endpoint `GET /I/want/title/` with the `address` query parameter to fetch the titles of the provided websites.
 
 Example:
 
 ```bash
-curl "http://localhost:3000/I/want/title?address=example.com&address=google.com"
+curl "http://localhost:3000/I/want/title/?address=example.com&address=google.com"
 ```
